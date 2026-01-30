@@ -24,6 +24,9 @@ AI coding skills that enhance developer productivity on Solana.
 
 - [magicblock-dev-skill](https://github.com/magicblock-labs/magicblock-dev-skill) - End-to-end MagicBlock development skill for Claude Code. [MagicBlock](https://magicblock.xyz) is a Solana network extension designed to help programs with latency/privacy needs, along with other native tools like VRFs, Cranks, Session Keys and more.
 
+- [solana-game-skill](https://github.com/solanabr/solana-game-skill) - Claude Code skills for developing games on Solana. Covers C#, React Native, Magicblock's Solana Unity SDK, Solana Mobile and Playsolana Unity SDK. Extends [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill).
+
+  
 ## AI Agents
 
 AI agents and autonomous systems built for Solana.
